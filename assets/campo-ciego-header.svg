@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="AEGIS / CAMPO CIEGO — Xián Blanco Méndez; agent authority, currentness and evidence">
+  <defs>
+    <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F12"/>
+      <stop offset="1" stop-color="#1A1F26"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#C7A46A" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#C7A46A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse">
+      <path d="M55 0H0V55" fill="none" stroke="#9AA0A6" stroke-opacity=".10" stroke-width=".7"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#dark)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="194" rx="306" ry="194" fill="url(#glow)"/>
+  <path d="M30 24H1170M30 278H1170" stroke="#C7A46A" stroke-opacity=".55"/>
+  <g fill="none" stroke="#C7A46A">
+    <circle cx="1000" cy="165" r="157" stroke-opacity=".12"/>
+    <path d="M845 138 A157 157 0 0 1 1146 97" stroke-width="2" stroke-opacity=".88"/>
+    <path d="M877 269 A157 157 0 0 0 1160 166" stroke-width="1.4" stroke-opacity=".45"/>
+    <path d="M1000 22V278" stroke-opacity=".32"/>
+    <path d="M835 165H1166" stroke-opacity=".21"/>
+  </g>
+  <circle cx="1000" cy="8" r="5" fill="#C7A46A"/>
+  <text x="72" y="64" font-family="Lato,Arial,sans-serif" font-size="20" letter-spacing="4" fill="#C7A46A">XIÁN BLANCO MÉNDEZ</text>
+  <text x="72" y="145" font-family="Lato,Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="1" fill="#F5F4EF">AEGIS / CAMPO CIEGO</text>
+  <text x="73" y="195" font-family="Lato,Arial,sans-serif" font-size="19" letter-spacing="1.5" fill="#9AA0A6">AGENT AUTHORITY  /  CURRENTNESS  /  EVIDENCE</text>
+  <path d="M72 228H148" stroke="#C7A46A" stroke-width="3"/>
+  <text x="73" y="263" font-family="Lato,Arial,sans-serif" font-size="20" letter-spacing="3" fill="#C7A46A">LEARN · FALSIFY · SHARE</text>
+</svg>
