@@ -36,3 +36,11 @@ AEGIS is ongoing private research into durable, auditable agent systems. Its pri
 **Observe → reproduce → try to falsify → correct → preserve the evidence and its limits.**
 
 I value concrete failure traces, independent counterexamples, and careful comparisons over claims of certainty.
+
+### Public channels
+
+**AEGIS** is the research effort; **CAMPO CIEGO** is where I explain, question and discuss the work publicly.
+
+- [X · @XBlancoMendez](https://x.com/XBlancoMendez)
+- [Threads · @chn_wht](https://www.threads.com/@chn_wht)
+- [Instagram · @chn_wht](https://www.instagram.com/chn_wht/)
