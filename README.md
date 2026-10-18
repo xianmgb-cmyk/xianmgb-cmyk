@@ -1,3 +1,5 @@
+![CAMPO CIEGO / AEGIS — unified research identity](assets/campo-ciego-header.svg)
+
 # Xián Blanco Méndez
 
 **Independent research & systems development · AEGIS**
