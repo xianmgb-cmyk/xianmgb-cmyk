@@ -4,6 +4,8 @@
 
 **Independent research & systems development · AEGIS**
 
+Website: [blancomendez.com](https://www.blancomendez.com/)
+
 I study the gap between what an AI agent was allowed to do, what actually happened when it acted, and what the available evidence can prove.
 
 ### Questions I work on
