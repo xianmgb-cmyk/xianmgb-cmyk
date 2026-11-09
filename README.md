@@ -17,6 +17,9 @@ I study the gap between what an AI agent was allowed to do, what actually happen
 
 ### Public work and technical contributions
 
+**[AI intake review — executable work sample](work-samples/ai-intake-review/)**  
+A local AI prototype with runnable Python, 20 deterministic checks and three recorded local-model responses. Synthetic invoice text becomes a proposal, not permission: a separate checker compares it with a trusted test reference before a simulated effect. Includes raw outputs, timings, reproducibility instructions, AI-assisted authorship and limits. Not a client deployment, production system or measured savings claim.
+
 **[Research Note 001 — When PASS Is Not Promotion](https://github.com/xianmgb-cmyk/research-note-001-input-binding)**  
 A short research note and executable synthetic example about binding evaluation receipts to the exact input consumed. The example is bounded; it is not a production certification.
 
