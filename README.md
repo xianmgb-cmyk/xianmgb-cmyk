@@ -29,6 +29,9 @@ Fixed comment display-name attribution when two MCP clients use different tokens
 **[kiri-gate C01 — a concurrent UNKNOWN-outcome race](https://github.com/aryan597/kiri-gate/issues/1)**  
 Reported and reproduced a stale-read/deduplication race using simulated effects. The maintainer [published a fix](https://github.com/aryan597/kiri-gate/commit/30aec88bc22cb42ac853dc8515d608d0a91bf872). A [follow-up observation](https://github.com/aryan597/kiri-gate/issues/1#issuecomment-6234837962) shows how the regression test can return a false PASS under a deliberately induced scheduler timeout. That follow-up is a test-quality finding, not evidence that the original fix fails in the controlled C01 run. The [test-only regression hardening (PR #2)](https://github.com/aryan597/kiri-gate/pull/2) was merged 19 October 2026; its controlled checks do not claim end-to-end MCP validation.
 
+**[agent-eval — reject NaN evaluation scores (PR #51)](https://github.com/RudrenduPaul/agent-eval/pull/51)**  
+Proposed a fix and regression tests for NaN scores being clamped to a perfect score in synchronous and asynchronous evaluation. Submitted 14 November 2026; upstream review and acceptance remain pending. The public fork and patch are contribution work, not the private AEGIS implementation.
+
 **[AgentIF — applicability coverage in evaluation](https://github.com/THU-KEG/AgentIF/issues/9)**  
 An open question about reporting applicable versus total constraints alongside aggregate success metrics. This is not a confirmed defect report.
 
